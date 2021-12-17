@@ -1,0 +1,69 @@
+.filter-section-main-container {
+  display: flex;
+  flex-direction: column;
+}
+.top-filter-main-section {
+  text-decoration: none;
+}
+.home-container {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #231f20;
+}
+.trending-container {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #231f20;
+}
+.gaming-container {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #231f20;
+}
+.saved-container {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #231f20;
+}
+.short-form-image-container {
+  display: flex;
+}
+.filter-icon {
+  margin: 4px;
+}
+.option {
+  font-family: 'Roboto';
+  font-size: 18px;
+  margin-left: 5px;
+}
+
+.logo-image {
+  height: 30px;
+  width: 30px;
+  margin: 5px;
+}
+.footer-bottom-section {
+  align-self: stretch;
+}
+
+.filter-end-text {
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+
+.footer-start-text {
+  font-family: 'Roboto';
+  font-size: 16px;
+}

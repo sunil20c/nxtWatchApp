@@ -1,0 +1,28 @@
+.nxt-video-login-main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+.error-msg {
+  font-family: 'Roboto';
+  color: #ff0000;
+  font-size: 16px;
+}
+.login-button {
+  background-color: #3b82f6;
+  border: none;
+  color: #ffffff;
+  border-radius: 8px;
+  cursor: pointer;
+  outline: none;
+  padding: 10px;
+  font-family: 'Roboto';
+  font-size: 16px;
+}

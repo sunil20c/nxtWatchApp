@@ -1,0 +1,77 @@
+.video-item-details-main-container {
+  min-height: 100vh;
+}
+
+.video-item-detail-section {
+  padding: 15px;
+}
+.left-right-item-details-container {
+  display: flex;
+}
+
+.middle-line-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.horizontal-line {
+  border: 1px solid #3b82f6;
+}
+
+.views-published-container {
+  display: flex;
+  align-items: center;
+}
+
+.video-opinion-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-family: 'Roboto';
+}
+.profile-details-container {
+  display: flex;
+}
+.save-button {
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  border: none;
+  font-family: 'Roboto';
+  font-size: 16px;
+  cursor: pointer;
+  outline: none;
+}
+.name-subscriber-container {
+  display: flex;
+  flex-direction: column;
+}
+.like-container {
+  background-color: transparent;
+  border: none;
+  font-family: 'Roboto';
+  font-size: 16px;
+  cursor: pointer;
+  outline: none;
+  display: flex;
+  align-items: center;
+}
+.dislike-container {
+  background-color: transparent;
+  border: none;
+  font-family: 'Roboto';
+  font-size: 16px;
+  cursor: pointer;
+  outline: none;
+  display: flex;
+  align-items: center;
+}
+.dark-bg {
+  color: #f4f4f4;
+}
+.gap {
+  margin: 6px;
+}
+.video-player {
+  flex-grow: 1;
+}

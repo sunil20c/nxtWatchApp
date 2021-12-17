@@ -1,0 +1,41 @@
+.gaming-main-bg-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.game-heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.left-right-game-container {
+  display: flex;
+}
+.game-heading-container {
+  display: flex;
+  flex-direction: column;
+}
+.game-lists-container {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.game-item-container {
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin: 5px;
+  text-decoration: none;
+  color: #313131;
+}
+
+.game-thumbnail {
+  height: 300px;
+}
+.gaming-title {
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+.gaming-views {
+  font-family: 'Roboto';
+  font-size: 16px;
+}

@@ -1,0 +1,11 @@
+.left-right-container {
+  display: flex;
+}
+.trending-items-list-container {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
+.icon {
+  margin-right: 5px;
+}

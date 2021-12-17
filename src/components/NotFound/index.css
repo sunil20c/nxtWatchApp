@@ -1,0 +1,18 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.nf-heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #ff0b37;
+}
+
+.nf-text {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #383838;
+}

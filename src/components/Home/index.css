@@ -1,0 +1,67 @@
+.home-banner-section {
+  height: 300px;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.banner-content {
+  font-size: 16px;
+  font-family: 'Roboto';
+}
+.left-right-home-container {
+  display: flex;
+}
+.left-side-container {
+  width: 20%;
+}
+.right-side-main-container {
+  width: 90%;
+}
+.videos-list-container {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.search-container {
+  display: flex;
+  justify-content: flex-start;
+  margin: 6px;
+}
+.search-input {
+  width: 30%;
+}
+.search-button {
+  background-color: transparent;
+  padding: 5px;
+}
+.home-close-icon {
+  display: flex;
+  align-self: flex-end;
+}
+.logo-image-home {
+  height: 35px;
+}
+
+.banner-button {
+  background-color: transparent;
+  padding: 7px;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
+.dark-bg {
+  background-color: #000000;
+}
+.light-bg {
+  background-color: #ffffff;
+}
+.banner-close {
+  display: flex;
+  align-self: flex-end;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  padding: 8px;
+}
